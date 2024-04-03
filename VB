@@ -1,5 +1,5 @@
 ## Quitar contraseñas de hoja excel.
-
+Abrir editor de Visual Basic y escribir el siguiente código.
 
 ''''
 Sub DesbloquearHojaExcel()
@@ -27,3 +27,6 @@ End Sub
 
 ''''
 
+
+# Fuente:
+- https://diariodeunaprendizdevba.blogspot.com/2017/09/como-desproteger-hoja-excel.html
